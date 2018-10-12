@@ -1,13 +1,13 @@
 {
-  "main.css": "./static/css/main.b1bd169d.chunk.css",
-  "main.js": "./static/js/main.6f0e6cff.chunk.js",
-  "main.js.map": "./static/js/main.6f0e6cff.chunk.js.map",
-  "static/js/1.85527687.chunk.js": "./static/js/1.85527687.chunk.js",
-  "static/js/1.85527687.chunk.js.map": "./static/js/1.85527687.chunk.js.map",
-  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
-  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
-  "static/css/main.b1bd169d.chunk.css.map": "./static/css/main.b1bd169d.chunk.css.map",
-  "index.html": "./index.html",
-  "precache-manifest.3e13e72cbdbcd3f59f39ebbafc133067.js": "./precache-manifest.3e13e72cbdbcd3f59f39ebbafc133067.js",
-  "service-worker.js": "./service-worker.js"
+  "main.css": "/mmendesas/react-tutorial/static/css/main.b1bd169d.chunk.css",
+  "main.js": "/mmendesas/react-tutorial/static/js/main.6f0e6cff.chunk.js",
+  "main.js.map": "/mmendesas/react-tutorial/static/js/main.6f0e6cff.chunk.js.map",
+  "static/js/1.85527687.chunk.js": "/mmendesas/react-tutorial/static/js/1.85527687.chunk.js",
+  "static/js/1.85527687.chunk.js.map": "/mmendesas/react-tutorial/static/js/1.85527687.chunk.js.map",
+  "runtime~main.js": "/mmendesas/react-tutorial/static/js/runtime~main.3d5798ad.js",
+  "runtime~main.js.map": "/mmendesas/react-tutorial/static/js/runtime~main.3d5798ad.js.map",
+  "static/css/main.b1bd169d.chunk.css.map": "/mmendesas/react-tutorial/static/css/main.b1bd169d.chunk.css.map",
+  "index.html": "/mmendesas/react-tutorial/index.html",
+  "precache-manifest.13cf0d32ce84d81b8cac46ad334b7442.js": "/mmendesas/react-tutorial/precache-manifest.13cf0d32ce84d81b8cac46ad334b7442.js",
+  "service-worker.js": "/mmendesas/react-tutorial/service-worker.js"
 }
