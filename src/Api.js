@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import { string } from 'postcss-selector-parser';
-
 class Api extends Component {
 
     state = {
