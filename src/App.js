@@ -5,7 +5,10 @@ import Form from './Form';
 class App extends Component {
 
     state = {
-        characters: []
+        characters: [
+            { name: 'Steven', job: 'gooseberry producer' },
+            { name: 'Anna', job: 'chief officer' }
+        ]
     };
 
     removeCharacter = index => {
